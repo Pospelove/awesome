@@ -15,3 +15,6 @@ TypeScript-first schema validation
 
 ## [frida](https://github.com/frida/frida)
 Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers
+
+## [remotion](https://github.com/remotion-dev/remotion)
+Create videos programmatically in React
