@@ -18,3 +18,6 @@ Dynamic instrumentation toolkit for developers, reverse-engineers, and security 
 
 ## [remotion](https://github.com/remotion-dev/remotion)
 Create videos programmatically in React
+
+## [fabric](https://github.com/fabricjs/fabric.js)
+Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
