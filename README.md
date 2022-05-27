@@ -1,6 +1,8 @@
 # awesome
 My list of awesome projects
 
+# Libraries
+
 ## [nw.js](https://github.com/nwjs/nw.js)
 The new Electron BUT with Dom and NodeJS in a single context
 
@@ -21,3 +23,10 @@ Create videos programmatically in React
 
 ## [fabric](https://github.com/fabricjs/fabric.js)
 Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+
+# Software
+
+I prefer written in TypeScript :)
+
+## [lens](https://github.com/lensapp/lens)
+K8s IDE
