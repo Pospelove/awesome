@@ -3,6 +3,9 @@ My list of awesome projects
 
 # Libraries
 
+## [trpc](https://github.com/trpc/trpc)
+Move Fast and Break Nothing. End-to-end typesafe APIs made easy
+
 ## [nw.js](https://github.com/nwjs/nw.js)
 The new Electron BUT with Dom and NodeJS in a single context
 
